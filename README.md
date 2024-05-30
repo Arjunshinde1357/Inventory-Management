@@ -1,0 +1,2 @@
+# Inventory-Management
+This is my first project in git.
